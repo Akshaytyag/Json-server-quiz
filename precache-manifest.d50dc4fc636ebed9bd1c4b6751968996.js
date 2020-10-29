@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Json-server-quiz/static/media/no-img.6732bd42.png"
   },
   {
-    "revision": "4ab3fc25525182e6352ce5e754643604",
+    "revision": "18334423beaf3695b1f52379a54c165f",
     "url": "/Json-server-quiz/index.html"
   }
 ];
